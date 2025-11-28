@@ -114,6 +114,7 @@ A real-time restaurant ordering system with QR menus and kitchen dashboards.
 # 📬 Contact Me
 - **Email:** rahulchauhann95186@gmail.com  
 - **GitHub:** https://github.com/Rahul0-01  
-- **Resume:** [Download PDF](RAHUL%20CHAUHAN_r.pdf)
+- **Resume:** [Download Resume](RAHUL_CHAUHAN_RESUME.pdf)
+
 
 ---
