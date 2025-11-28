@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahul0-01&color=brightgreen" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Rahul0-01?style=social" alt="Followers"/>
-  <a href="RAHUL%20CHAUHAN_r.pdf">
+<a href="RAHUL_CHAUHAN_RESUME.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-blue" />
   </a>
 </p>
